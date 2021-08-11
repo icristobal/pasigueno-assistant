@@ -7,7 +7,7 @@ Capstone 2 Project of Team Docks (National University Manila Campus) (c) 2018-20
 
 ## Versions
 
-1. [Web Portal](https://github.com/ivanraptor730/pasigueno-assistant-web) - For Barangay Administrators
+1. [Web Portal](https://github.com/ivanraptor730/pasigueno-assistant/) - For Barangay Administrators
 2. [Mobile App](https://github.com/ivanraptor730/pasigueno-assistant/releases/tag/1.0) - For Users
 
 ## Template Used (from GitHub):
